@@ -59,3 +59,21 @@ Creación de un sistema de gestión de un centro médico del COVID-19 mediante B
 Si con todo esto no fuera poco, vamos a finalizar con un tercer bloque donde tendremos un proyecto real con más de 500 líneas de código que va a consistir en la programación en Solidity de un Servicio de Telemedicina.
 
 Este curso es ideal para cualquiera que quiera obtener conocimientos acerca de la programación de Smart Contracts.
+
+## A quien le interesa
+
+En particular te lo recomiendo si eres:
+
+* Un consultor freelance que tiene habilidades de programación y quiere transformar las empresas con el poder de la Blockchain
+
+* Empresarios y dueños visionarios que quieren subir sus empresas de categoría de nivel con el poder del Blockchain
+
+* Iniciados en Blockchain que quieren mejorar su portfolio con nuevos proyectos
+
+* Apasionados en la tecnología que quieren ganar experiencia con la programación en Solidity
+
+* Cualquier persona interesada en mejorar y adaptarse a los cambios tecnológicos presentes
+
+Los estudiantes ganaran con nosotros habilidad práctica sobre la programación de Smart Contracts. Y tendrás acceso a todo el material y transparencias del curso e incluso tendrás un certificado de completación del curso al final del mismo que podrás subir a LinkedIn para mostrar tus nuevas habilidades en Blockchain y Solidity.
+
+¡Nos vemos en clase!
